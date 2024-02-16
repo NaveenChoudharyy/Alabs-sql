@@ -251,7 +251,6 @@ HAVING
 (TAB_3.RANK_2 - TAB_3.RANK_) = 1
 
 
-
 --Q10--END
 	
 	
